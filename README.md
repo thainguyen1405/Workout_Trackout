@@ -6,7 +6,7 @@ backend/ contains the Express.js backend
 
 ## UI First look
 
-<img width="450" height="997" alt="Screenshot 2025-12-15 234015" src="https://github.com/user-attachments/assets/1d57c462-bc85-41ab-8067-58aa60053ba3" />
+<img width="388" height="859" alt="Screenshot 2025-12-16 165137" src="https://github.com/user-attachments/assets/330b17e6-dcea-411f-8b3f-54dc75475589" />
 
 <img width="446" height="997" alt="Screenshot 2025-12-15 234038" src="https://github.com/user-attachments/assets/6cc07eb4-fc39-4506-ae72-17b65fa93f6b" />
 
