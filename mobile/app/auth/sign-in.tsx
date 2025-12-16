@@ -48,7 +48,7 @@ const SignIn = () =>{
         {/* Header Section */}
         <View style={styles.headerSection}>
           <Text style={styles.title}>
-              Welcome to XRCise Meet
+              Welcome to Workout Trackout
           </Text>
           <Text style={styles.subtitle}>
             Sign in to continue
@@ -146,7 +146,7 @@ const styles = StyleSheet.create({
     marginBottom: 120,
   },
   title: {
-    fontSize: 26,
+    fontSize: 23,
     fontWeight: '600',
     fontFamily: FONT_FAMILIES.regular,
     color: '#000000',
