@@ -1,0 +1,29 @@
+{
+  "editor.codeActionsOnSave": {
+    "source.fixAll": "explicit",
+    "source.organizeImports": "explicit",
+    "source.sortMembers": "explicit"
+  },
+  "cSpell.words": [
+    "adipiscing",
+    "Aenean",
+    "amet",
+    "condimentum",
+    "Donec",
+    "elit",
+    "exercie",
+    "forwardslash",
+    "gravida",
+    "lectus",
+    "maximus",
+    "mobileprovision",
+    "nativewind",
+    "Pickleball",
+    "placerat",
+    "Pressable",
+    "Tamagui",
+    "tincidunt",
+    "unistyles",
+    "XRCISE"
+  ]
+}
